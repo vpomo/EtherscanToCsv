@@ -14,7 +14,7 @@ import java.util.List;
 
 public class MainParser {
     private static final String BASE_URL = "https://etherscan.io/token/0xcdcfc0f66c522fd086a1b725ea3c0eeb9f9e8814#balances";
-    private static final String PATH_FILE_CSV = "distibution.csv";
+    private static final String PATH_FILE_CSV = "distribution.csv";
     private static int MAX_PAGES = 200;
 
     private static org.slf4j.Logger log = LoggerFactory.getLogger(MainParser.class);
