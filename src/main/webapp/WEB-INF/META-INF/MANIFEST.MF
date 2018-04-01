@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Class-Path: hibernate-entitymanager-4.3.4.Final.jar commons-codec-1.10
+ .jar jboss-logging-annotations-1.2.0.Beta1.jar guava-21.0.jar logback
+ -core-1.1.3.jar javassist-3.18.1-GA.jar jboss-transaction-api_1.2_spe
+ c-1.0.0.Final.jar httpcore-4.4.6.jar gson-2.8.0.jar xml-apis-1.0.b2.j
+ ar antlr-2.7.7.jar jna-4.1.0.jar commons-exec-1.3.jar hibernate-jpa-2
+ .1-api-1.0.0.Final.jar jandex-1.1.0.Final.jar selenium-chrome-driver-
+ 3.4.0.jar selenium-remote-driver-3.4.0.jar hibernate-core-4.3.4.Final
+ .jar hibernate-commons-annotations-4.0.4.Final.jar selenium-api-3.4.0
+ .jar cglib-nodep-3.2.4.jar commons-logging-1.2.jar jna-platform-4.1.0
+ .jar logback-classic-1.1.3.jar usertype.spi-3.2.0.GA.jar httpclient-4
+ .5.3.jar slf4j-api-1.7.12.jar jboss-logging-3.1.3.GA.jar selenium-fir
+ efox-driver-3.4.0.jar usertype.core-3.2.0.GA.jar dom4j-1.6.1.jar
+Main-Class: com.vpomo.markupvisits.os.makeJAR.MainMarkUp
+

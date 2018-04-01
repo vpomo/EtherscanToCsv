@@ -1,0 +1,7 @@
+/build/
+/dist/
+/target/
+out/
+out/artifacts/MarkupVisits_jar/MarkupVisits.jar
+/.idea/
+*.iml
